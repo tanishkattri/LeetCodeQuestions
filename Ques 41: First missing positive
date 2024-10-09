@@ -16,7 +16,7 @@ class Solution {
                 return j+1;
             }
         }
-        return nums.length;
+        return nums.length+1;
     }
 
     void swap(int[] arr, int first, int second){
